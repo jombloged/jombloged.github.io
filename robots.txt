@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://jombloged.github.io/sitemap.xml
